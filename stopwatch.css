@@ -1,0 +1,36 @@
+#watch{
+    /* border:  2px solid red; */
+    height: 40vh;
+    width: 60vw;
+    margin-left: 20vw;
+    margin-top: 10vh;
+    background-color: rgb(231, 238, 240);
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 15vh;
+    margin-top: 5vh;
+    width: 40vw;
+    margin-left: 10vw;
+    /* border: 2px solid red; */
+    /* background-color: rgb(183, 231, 204); */
+}
+.a{
+    margin: 0px 5px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#cont{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 80px;
+}
+.txt{
+    font-size: 60px;
+    color: red;
+}
